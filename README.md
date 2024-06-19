@@ -1,5 +1,8 @@
 
 # Veri Seti
+
+Veri seti liki: https://www.kaggle.com/datasets/henryshan/sleep-health-and-lifestyle
+
 Veri seti aşağıdaki özellikleri içermektedir:
 
 Person ID: Kişiye özel kimlik numarası.
