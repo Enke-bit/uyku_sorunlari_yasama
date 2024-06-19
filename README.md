@@ -36,15 +36,20 @@ Veri seti üzerinde lojistik regresyon modeli kullanılarak 'Sleep Disorder' tah
 
 # Model Performansı
 Accuracy Score: 0.871
-Confusion Matrix
+
+# Confusion Matrix
 [[11  2]
  [ 2 16]]
+
 ## Classification Report
               precision    recall  f1-score   support
 
          0       0.85      0.85      0.85        13
          1       0.89      0.89      0.89        18
 
+
+ # Accuracy 
+  
   accuracy                           0.87        31
  macro avg       0.87      0.87      0.87        31
 
