@@ -39,7 +39,7 @@ Accuracy Score: 0.871
 Confusion Matrix
 [[11  2]
  [ 2 16]]
-Classification Report
+## Classification Report
               precision    recall  f1-score   support
 
          0       0.85      0.85      0.85        13
@@ -47,7 +47,7 @@ Classification Report
 
   accuracy                           0.87        31
  macro avg       0.87      0.87      0.87        31
-weighted avg 0.87 0.87 0.87 31
+
 
 
 ### Özellik Katsayıları
