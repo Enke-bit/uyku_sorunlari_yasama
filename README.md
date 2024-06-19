@@ -1,22 +1,34 @@
-Bu README dosyası, 'Sleep Disorder' (Uyku Bozukluğu) tahminleme modelinin oluşturulması ve değerlendirilmesi sürecini açıklamaktadır. Bu süreçte kullanılan veri seti ve modelleme adımları aşağıda detaylandırılmıştır.
 
 # Veri Seti
 Veri seti aşağıdaki özellikleri içermektedir:
 
 Person ID: Kişiye özel kimlik numarası.
+
 Gender: Cinsiyet (0: Kadın, 1: Erkek).
+
 Age: Yaş.
+
 Occupation: Meslek kategorisi.
+
 Sleep Duration: Günlük uyku süresi (saat cinsinden).
+
 Quality of Sleep: Uyku kalitesi (ölçek: 0-10).
+
 Physical Activity Level: Fiziksel aktivite düzeyi (ölçek: 0-10).
+
 Stress Level: Stres düzeyi (ölçek: 0-10).
+
 BMI Category: Vücut kitle indeksi kategorisi (normal, kilolu, obez).
+
 Blood Pressure: Kan basıncı (format: "Systolic/Diastolic").
+
 Heart Rate: Kalp atış hızı (bpm).
+
 Daily Steps: Günlük adım sayısı.
+
 Sleep Disorder: Uyku bozukluğu var mı? (0: Yok, 1: Var)
-Model Oluşturma
+
+# Model Oluşturma
 Veri seti üzerinde lojistik regresyon modeli kullanılarak 'Sleep Disorder' tahmini yapılmıştır. Aşağıda modelin performansı ve katsayılarına ilişkin detaylar bulunmaktadır:
 
 # Model Performansı
