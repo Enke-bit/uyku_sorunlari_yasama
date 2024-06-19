@@ -57,5 +57,3 @@ Model, veri setindeki özellikler kullanılarak 'Sleep Disorder' varlığını t
 Bu README dosyası modelin oluşturulması ve değerlendirilmesi sürecini açıklamakta olup, veri seti ve model performansıyla ilgili detaylı bilgiler sağlamaktadır.
 
 ---
-
-Bu örneği modelinizin özelliklerine ve performansına göre özelleştirebilirsiniz. Markdown formatı, modelinizi ve sonuçlarınızı anlatmak için kullanışlı bir yol sağlar ve diğerlerinin çalışmanızı anlamasına yardımcı olabilir.
